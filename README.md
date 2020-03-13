@@ -4,8 +4,6 @@
 
 原文地址：https://github.com/aalansehaiyang/technology-talk
 
-`版权所有，转发请注明来源。答疑解惑及商务合作，请发邮件到 aalansehaiyang52@126.com`
-
 
 ### 前言
 
@@ -18,6 +16,8 @@
 言归正传，本文会列举工作中常用的一些技术，以及如何锻炼提升自己的架构能力。
 
 由于每块技术市场上基本都有对应的网络资料或书籍，所以本文只是少篇幅列举工作中用到的核心知识点，抛砖引玉，属于进阶型，不适用初学者。
+
+<a href="https://mp.weixin.qq.com/s/BrLtdactBKn2aMWKvLuJKQ"><img src="basic-knowledge/img/20191226162717.gif" width=900></img></a>
 
 ### 基础知识
 * 	[java](basic-knowledge/java.md)
@@ -181,10 +181,13 @@
 *   [github上fork项目后，如何同步更新后面提交](http://blog.csdn.net/qq1332479771/article/details/56087333)
 * 	[其它](other/other.md)
 
-### 写在后面
+### 微信公众号
 
-**不知不觉，这个项目已经更新三年多了。如果喜欢请点击右上角 star 收藏；如果读里面的文章，开阔了视野，也欢迎加入笔者的知识星球，会有更加精彩的分享**
+**新开了个微信公众号：微观技术，分享各个行业优秀的架构设计方案、技术心得、心路历程等，欢迎各位技术达人关注、经验交流**
+
+![image](basic-knowledge/img/qrcode_for_gh_4461eb8b8689_258.jpg)
 
 
-![image](basic-knowledge/img/WechatIMG469.jpeg)
+`版权所有，转发请注明来源。答疑解惑及商务合作，请发邮件到 aalansehaiyang52@126.com`
+
 
