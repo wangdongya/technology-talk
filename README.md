@@ -5,11 +5,17 @@
 原文地址：https://github.com/aalansehaiyang/technology-talk
 
 
+### 微信公众号
+
+**新开了个微信公众号：微观技术，分享各个行业优秀的架构设计方案、技术心得、心路历程等，欢迎各位技术达人关注、经验交流**
+
+![image](https://i.niupic.com/images/2020/04/04/7hig.jpg)
+
 ### 前言
 
 有人认为编程是一门技术活，要有一定的天赋，非天资聪慧者不能及也。
 
-其实不然，笔者计算机专业出身，对于技术这碗饭有一些心得体会，大多数人成为某领域顶级专家可能会有些难度，但应对日常工作，**成长为资深研发工程师、技术专家、甚至成为小团队的Team Leader，并不难。**
+其实不然，笔者计算机专业出身，对于技术这碗饭有一些心得体会，大多数人成为某领域顶级专家可能会有些难度，但应对日常工作，**成长为资深研发工程师、技术专家、甚至成为小团队的Team Leader，并不难**
 
 **多读书、多看报，多研究开源框架源码，比如：github.com，这里汇集了全球工程师的智慧！**
 
@@ -17,7 +23,6 @@
 
 由于每块技术市场上基本都有对应的网络资料或书籍，所以本文只是少篇幅列举工作中用到的核心知识点，抛砖引玉，属于进阶型，不适用初学者。
 
-<a href="https://mp.weixin.qq.com/s/BrLtdactBKn2aMWKvLuJKQ"><img src="basic-knowledge/img/20191226162717.gif" width=900></img></a>
 
 ### 基础知识
 * 	[java](basic-knowledge/java.md)
@@ -181,13 +186,9 @@
 *   [github上fork项目后，如何同步更新后面提交](http://blog.csdn.net/qq1332479771/article/details/56087333)
 * 	[其它](other/other.md)
 
-### 微信公众号
 
-**新开了个微信公众号：微观技术，分享各个行业优秀的架构设计方案、技术心得、心路历程等，欢迎各位技术达人关注、经验交流**
+### 写在最后
 
-![image](basic-knowledge/img/qrcode_for_gh_4461eb8b8689_258.jpg)
-
-
-`版权所有，转发请注明来源。答疑解惑及商务合作，请发邮件到 aalansehaiyang52@126.com`
+`商务合作，请发邮件到 aalansehaiyang52@126.com`
 
 
